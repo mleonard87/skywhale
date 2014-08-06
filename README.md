@@ -10,10 +10,10 @@ Usage
 ```
 <script src="skywhale.js" type="text/javascript"></script>
 ```
-2) launch the skywhale with JavaScript. The 200 below represents the time between the Skywhale disappearing off screen and the next one being spawned.
+2) launch the skywhale with JavaScript. The 1000 below represents the time (in milliseconds) between the Skywhale disappearing off screen and the next one being spawned - the default is 2000 if left empty.
 ```
 <script type="text/javascript">
-  skywhale.launch(2000);
+  skywhale.launch(1000);
 </script>
 ```
 
