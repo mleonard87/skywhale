@@ -10,9 +10,9 @@ Usage
 
 1) Include skywhale.js in your page.
 ```
-<script src="skywhale.js" type="text/javascript"></script>
+<script src="skywhale.min.js" type="text/javascript"></script>
 ```
-2) launch the skywhale with JavaScript. The 1000 below represents the time (in milliseconds) between the Skywhale disappearing off screen and the next one being spawned - the default is 2000 if left empty.
+2) Launch the skywhale with JavaScript. The 1000 below represents the time (in milliseconds) between the Skywhale disappearing off screen and the next one being spawned - the default is 2000 if left empty.
 ```
 <script type="text/javascript">
   skywhale.launch(1000);
