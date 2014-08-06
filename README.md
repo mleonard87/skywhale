@@ -1,7 +1,7 @@
 Skywhale
 ========
 
-Spice up any HTML page with the infamous Skywhale. See here for more details: [The Skywhale](https://en.wikipedia.org/wiki/The_Skywhale).
+Spice up any HTML page with the infamous Canberra Skywhale. See here for more details: [The Skywhale](https://en.wikipedia.org/wiki/The_Skywhale).
 
 Usage
 ---
@@ -19,5 +19,5 @@ Usage
 
 Example
 ---
-Check out the example.html page or [click here]().
+Check out the example.html page or [click here](https://mleonard87.github.io/skywhale/).
 
