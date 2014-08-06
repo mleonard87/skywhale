@@ -1,7 +1,7 @@
 Skywhale
 ========
 
-Spice up any HTML page with the infamous Canberra Skywhale. See here for more details: [The Skywhale](https://en.wikipedia.org/wiki/The_Skywhale).
+Spice up any webpage with the infamous Canberra Skywhale by [Patricia Piccinini](http://www.patriciapiccinini.net/). See here for more details: [The Skywhale](https://en.wikipedia.org/wiki/The_Skywhale).
 
 Originally developed as an easter egg in a [GovHack](http://www.govhack.org/) 2013 project: [100 Years 100 Stories](http://2013.hackerspace.govhack.org/?q=groups/100-years-100-stories).
 
