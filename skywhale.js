@@ -54,7 +54,7 @@ var skywhale = {
     clearTimeout(skywhale.launchTimerId);
     clearInterval(skywhale.animationTimerId);
     if (skywhale.skywhale_div) {
-      skywhale.skywhale_div.remove();
+      document.body.removeChild(skywhale.skywhale_div);
     }
   },
 
